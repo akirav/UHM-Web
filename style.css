@@ -1,0 +1,26 @@
+.ui.borderless.menu.headerbg{
+  background-color: #024731;
+  height: 64px;
+}
+
+.headerbg{
+  background-color: #024731;
+  height: 64px;
+}
+
+.titlebg {
+  padding-top: 20px;
+}
+
+.ui.large.menu.borderless.container.midbg{
+  box-shadow: none;
+  border: none;
+  height: 50px;
+}
+
+.midbg{
+  height: 61px;
+  border: #eee;
+  margin-top: 15px;
+
+}
