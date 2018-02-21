@@ -50,9 +50,23 @@
 }
 
 .box3{
-  padding: 20px 200px 10px 200px;
+  padding: 60px 200px 10px 200px;
   background-color: #f7f7f7;
   height: 141px;
+}
+
+.box4{
+  padding: 40px 170px 10px 200px;
+  background-color: #262626;
+  height: 278px;
+  font-size: 17px;
+}
+
+.box5{
+  padding: 20px 200px 10px 200px;
+  background-color: #024731;
+  height: 88px;
+  color:#ffffff;
 }
 
 .header.mid{
@@ -63,4 +77,13 @@
   font-size: 17px;
   text-align: center;
   padding-top: 10px;
+}
+
+.ui.massive.button{
+  background-color: darkgreen;
+  color: white;
+}
+
+.four.wide.grid{
+  padding-left: 200px;
 }
